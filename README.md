@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently following **BSc (hons) Degree in Computing and Information Systems**
 
-- 🌱 I’m currently learning **To value MYSELF**
+- 🌱 I’m currently learning **how to teach machines to be smarter than me... one line of code at a time!**
 
 - 📫 How to reach me **anujikasasindia@gmail.com**
 
