@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujikasasindi&" alt="anujikasasindi" width="400" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujikasasindi&" width="400" />
     </td>
   </tr>
 </table>
