@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anujikasasindia@gmail.com**
 
-- ⚡ Fun fact **Sometimes I stare at my projects so long, I’m not sure if I created them… or they created me**
+- ⚡ Fun fact : **Sometimes I stare at my projects so long, I’m not sure if I created them… or they created me**
 
 <hr>
 <h3 align="center">My Statistics</h3>
