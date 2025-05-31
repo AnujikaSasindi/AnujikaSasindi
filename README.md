@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anujikasasindia@gmail.com**
 
-- ⚡ Fun fact **ChatGPT thinks I am like the Swiss Army Knife of the Digital World**
+- ⚡ Fun fact **Sometimes I stare at my projects so long, I’m not sure if I created them… or they created me**
 
 <hr>
 <h3 align="center">My Statistics</h3>
